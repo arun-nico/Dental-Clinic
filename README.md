@@ -83,9 +83,9 @@ nithya_dental_clinic/
 ## 🏥 Clinic Information
 
 - **Clinic Name**: Nithya Dental Clinic
-- **Address**: 1st Floor, Door No. 45, Opposite to Popular Lab, Alangayam, Tamil Nadu - 635701
-- **Phone**: [+91 77082 49115](tel:7708249115)
-- **Email**: [nithyadentalclinic.2015@gmail.com](mailto:nithyadentalclinic.2015@gmail.com)
+- **Address**:
+- **Phone**: 
+- **Email**: 
 - **Hours of Operation**:
   - Monday – Saturday: 09:00 AM – 09:00 PM
   - Sunday: 09:00 AM – 03:00 PM
