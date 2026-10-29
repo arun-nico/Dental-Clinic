@@ -1,4 +1,4 @@
-## Dental Clinic - Website
+ Dental Clinic - Website
 
 Official website for ** Dental Clinic**,, Tamil Nadu. The clinic provides advanced dental treatments including painless root canal therapy, orthodontics (braces and invisible aligners), dental implants, cosmetic smile designing, and pediatric dentistry.
 
